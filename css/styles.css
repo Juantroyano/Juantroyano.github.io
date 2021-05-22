@@ -1,0 +1,83 @@
+body {
+  font-family: Overpass;
+  color: gray;
+  font-size: 18px;
+  margin: 0px;
+  background-image: url('../images/sticker.jpg');
+  background-size: contain;
+}
+strong{
+	color: black
+}
+h1{
+	color: white;
+}
+h3{
+	color: gray;
+	text-align: center;
+	background-color: black;
+}
+.container {
+width:10px;
+margin:60px auto ;
+}
+.conteiner h2{
+	margin: 8px;
+	color: black;
+}
+.conteiner p{
+	margin: 8px;
+}
+.banner{
+	background-image: url('../images/collage.jpg');
+	background-size: cover;
+	background-position: center;
+	padding: 80px 0;
+}
+.banner h1{
+	color: white;
+	font-size: 45px;
+	margin: 10px;
+}
+.btn-blue:hover{
+background-color: green;
+color: white;
+}
+.btn-blue{
+	color: green;
+	background-color: white;
+	padding: 5px 30px;
+	border-radius:14px;
+	display: inline-block;
+	text-decoration-style: solid;
+	font-size: 15px;
+	margin: 8px;
+}
+.banner p{
+	margin: 8px;
+	color: gray;
+	text-align: right;
+}
+.card-white {
+	vertical-align: right;
+	background:lightgray ;
+	border-radius: 4px;
+	padding: 24px;
+	margin:25px;
+	box-shadow: 0 0 16px rgba(0,0,0,0.2)
+}
+.card-white img {
+	width: 23%;
+	height: 300px;
+	object-fit: cover;
+	border-radius:4px;
+}
+.footer{
+	color: white;
+	background: gray;
+	text-align: right;
+	margin: 5px;
+}
+mark{
+	background-color: lightgray;
+}
